@@ -1,10 +1,10 @@
-# Idea Behind this
-I want to bild apps for my needs as Note-App ...etc
+# Abderrahmane Apps Project
 
-## Next Apps to Build
+## Overview
+This project consists of a suite of applications developed to meet personal needs, such as note-taking, blogging, finance management, and showcasing a personal portfolio. Each application is built with a specific tech stack suitable for its purpose.
 
-Abderrahmane Portfolio (APo) => Native HTML, CSS, JavaScript, Landing Page
-Abderrahmane Note (ANo) => JavaFX, Desktop Application
-Abderrahmane Blog (ABl) => Next JS, Django, Web Application
-Abderrahmane Finance (AFi) => React, Spring Boot, Web Application
-
+### To-Do List of Projects
+   - [ ] Abderrahmane Portfolio (APo)
+   - [ ] Abderrahmane Note (ANo)
+   - [ ] Abderrahmane Blog (ABl)
+   - [ ] Abderrahmane Finance (AFi)
