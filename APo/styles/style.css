@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: bisque;
+}
+nav {
+    background-color: aquamarine;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+li {
+    list-style: none;
+}
+li a {
+    text-decoration: none;
+}
+
+.outfit-bold {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    font-family: Outfit,sans-serif;
+    font-weight: 600;
+}
+.span-2, .span-4 {
+    display: none;
+}
+  
+.span-1:hover + .span-2,
+.span-3:hover + .span-4 {
+    display: inline;
+}
+
+.logo-ui-1 {
+    cursor: pointer;
+}
+  
